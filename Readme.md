@@ -1,6 +1,6 @@
 ## Custom Select Menu With Search Input
 
-sebuah program dengan nama custom select menu with search input yang dibuat dengan bahasa pwmrograman javascript. 
+sebuah program dengan nama custom select menu with search input yang dibuat dengan bahasa pemrograman javascript. 
 
 ### dibuat dengan berikut
 
